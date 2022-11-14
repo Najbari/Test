@@ -3,4 +3,6 @@ git stash
 git stash list
 git stash apply
 git stash apply n
-git stash drop
+git stash dropgit branch
+git branch dev
+git checkout dev
