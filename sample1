@@ -6,3 +6,6 @@ git stash apply n
 git stash dropgit branch
 git branch dev
 git checkout dev
+git restore <filename>
+git restore --stage <filename>
+git log --oneline
